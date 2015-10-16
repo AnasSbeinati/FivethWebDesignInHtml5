@@ -1,0 +1,39 @@
+#wrapper{width: 960px; padding: 10px 30px;margin: 0 auto;} 
+header{width: 100%;height:153px;} 
+#logo{width: 235px; height: 129px; background: url(../images/logo.jpg) no-repeat; float: left;} 
+#info{width: 420px; height: 153; background: url(../images/info.jpg) no-repeat; float: right;} 
+#info h1 { font-size: 20px;color: #0e0e0e;font-family: Tahoma;text-align: center;}
+#up{line-height: 28px;height: 28px;margin-bottom: 43px;}
+#info h2{font-size: 18px;color: #636262;font-family: Tahoma;text-align: center;margin-bottom: 32px;}
+nav{width: 100%;height: 50px;border-top-left-radius:10px;border-top-right-radius:10px;background-color: #fba828;margin-top: 30px;margin-bottom: 10px;} 
+nav ul{width: 828px;height: 100%;float: left;}
+nav li{width: 138px;height: 100%;line-height: 50px;float: left;text-align: center;}
+nav li:first-child{background-color: 060606;border-top-left-radius:10px;}
+nav li:first-child a,nav li:hover a{color: #fff;}
+nav li a{color: #270d0d;font-size: 14px;font-family:tahoma;}
+nav li:hover{background-color: 060606;}
+nav #slinks{width:112px;padding:5px 10px;float: left;}
+#slinks img:first-child{margin-right: 28px;}
+#contents{width:940px;height:1227px;padding:10px;background:url(../images/bg.jpg) no-repeat;} 
+#slider{width: 940px;height: 222px;margin-bottom: 10px;} 
+#slider img{width: 940px;height: 222px;}
+#blockes{width: 940px;height: 220px;margin-bottom: 20px;} 
+.block{width: 100px;height: 84px;background-color: #0e0e0e;float: left;margin-left: 20px;padding: 68px 60px;} 
+.block:first-child{margin-left: 0;}
+.block:hover{background-color: #870509;}
+#bcontents{width: 100%;height: 660px;} 
+article{width: 460px;height: 100%;float: left;} 
+article h1{font-size: 20px;color: #070707;font-family: Myriad Pro;margin-bottom: 5px;}
+article p{color: #735858;text-align: justify;font-family: 18px;font-family:Myriad Pro;line-height: 20px;}
+#middle-content{width: 220px;height: 100%;float: left;margin-left: 20px;} 
+#middle-content img{margin-bottom: 32px;}
+#right-content{width: 220px;height: 100%;float: right;margin-left: 20px;}
+#subscribe{width: 215px;padding-left:5px;height: 200px;background-color:#0e0e0e;border-radius: 10px; }
+#subscribe h1,h2 {font-size: 18px;color: #fff;}
+#subscribe h1{text-align: center;margin-top:0px;margin-bottom:30px;}
+form{clear: both;}
+form h2{float: left;}
+form input[type="text"],form input[type="email"]{padding-left:10px;width: 147px;height: 30px;margin-bottom: 20px;border-radius: 10px;border: 0}
+form input[type="submit"]{width: 157px;height: 30px;margin-bottom: 20px;border-radius: 10px;text-align: center;margin-left: 28px;background-color: #fb9724;border: 0;}
+footer{ width:100%;height:43px;text-align: center;font-size: 20px;color: #f42442;padding-top: 50px;}
+.clear{width: 100%;height: 1px;clear: both;}
